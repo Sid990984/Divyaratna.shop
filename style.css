@@ -195,4 +195,38 @@ footer {
   padding: 2rem 1rem;
   text-align: center;
 }
+.slider-section {
+  background: #fffaf2;
+  padding: 2rem 1rem;
+  text-align: center;
+}
 
+.slider-section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #543b1d;
+}
+
+.slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  scroll-behavior: smooth;
+}
+
+.slide {
+  flex: 0 0 80%;
+  max-width: 300px;
+  scroll-snap-align: start;
+  background: #fff;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.slide img {
+  width: 100%;
+  border-radius: 10px;
+}
