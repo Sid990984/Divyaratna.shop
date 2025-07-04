@@ -1,0 +1,21 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Healing Bracelet - Divyaratna</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Healing Bracelet</h1>
+    <p>ऊर्जा से भरपूर, ध्यान के लिए विशेष रचना</p>
+  </header>  <main style="text-align:center; padding: 2rem;">
+    <img src="images/bracelet_clean.jpg" alt="Healing Bracelet" style="max-width:300px; border-radius:12px;" />
+    <h2>₹1499</h2>
+    <p>इस स्टोन में उच्च कंपन होते हैं जो आपके ध्यान, मानसिक शांति और आत्मबल को बढ़ाते हैं।</p>
+    <a href="https://wa.me/919209904046?text=Hi,%20I%20want%20to%20order%20Healing%20Bracelet" class="whatsapp-btn">Order on WhatsApp</a>
+  </main>  <footer>
+    <p>&copy; 2025 Divyaratna.shop</p>
+  </footer>
+</body>
+</html>
